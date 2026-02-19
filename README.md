@@ -72,12 +72,6 @@ Core components:
 
 ---
 
-## 📸 Workflow Preview
-
-*(Add workflow images here)*
-
----
-
 ## 🧪 Example Commands
 
 - “Find my invoice from last month”
@@ -108,6 +102,6 @@ Core components:
 
 ## 👤 Author
 
-**Gurpreet — Automation Engineer | AI Workflow Architect**  
+**Gurpreet Kaur — Automation Engineer | AI Workflow Architect**  
 
 Building production-grade AI automation systems using n8n + LLMs + APIs.
